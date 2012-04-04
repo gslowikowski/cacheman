@@ -13,6 +13,7 @@ dist/
 logs/
 workspace/
 precompiled/
+target/
 test-result/
 test-app/modules/
 *.pyc
